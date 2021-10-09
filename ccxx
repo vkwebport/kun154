@@ -1,8 +1,8 @@
 {
   "CCXX/USDT": {
-    "midPrice": 83,
+    "midPrice": 84,
     "long": {
-      "up": 0.04,
+      "up": 0.05,
       "down": 0.07
     },
     "short": {
