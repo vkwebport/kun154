@@ -1,0 +1,13 @@
+{
+  "CCH/USDT": {
+    "midPrice": 1,
+    "long": {
+      "up": 0.06,
+      "down": 0.06
+    },
+    "short": {
+      "up": 0.02,
+      "down": 0.02
+    }
+  }
+}
